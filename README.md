@@ -6,3 +6,4 @@ I will try to post solutions 1 or 2 problem minimum each week
 4. 101 Dalmatians - squash the bugs, not the dogs!:https://www.codewars.com/kata/56f6919a6b88de18ff000b36
 5. Swap Values :https://www.codewars.com/kata/5388f0e00b24c5635e000fc6
 6. Sum of differences in array :https://www.codewars.com/kata/5b73fe9fb3d9776fbf00009e
+7. Calculate BMI :https://www.codewars.com/kata/57a429e253ba3381850000fb

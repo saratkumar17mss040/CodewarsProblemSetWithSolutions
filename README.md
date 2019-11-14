@@ -9,3 +9,5 @@ I will try to post solutions 1 or 2 problem minimum each week
 7. Calculate BMI :https://www.codewars.com/kata/57a429e253ba3381850000fb
 8. You're a square! :https://www.codewars.com/kata/54c27a33fb7da0db0100040e
 9. Area of a Square :https://www.codewars.com/kata/5748838ce2fab90b86001b1a
+10. Reversed Strings :https://www.codewars.com/kata/52c31f8e6605bcc646000082
+11. TwoSum :https://www.codewars.com/kata/52c31f8e6605bcc646000082

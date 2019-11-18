@@ -14,3 +14,4 @@ I will try to post solutions 1 or 2 problem minimum each week
 12. Help Bob count letters and digits :https://www.codewars.com/kata/5738f5ea9545204cec000155
 13. I love you, a little , a lot, passionately ... not at all :https://www.codewars.com/kata/57f24e6a18e9fad8eb000296
 14. Descending Order :https://www.codewars.com/kata/5467e4d82edf8bbf40000155
+15. Sort and Star :https://www.codewars.com/kata/57cfdf34902f6ba3d300001e

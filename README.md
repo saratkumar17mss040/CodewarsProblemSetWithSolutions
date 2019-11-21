@@ -17,3 +17,4 @@ I will try to post solutions 1 or 2 problem minimum each week
 15. Sort and Star :https://www.codewars.com/kata/57cfdf34902f6ba3d300001e
 16. get character from ASCII Value :https://www.codewars.com/kata/55ad04714f0b468e8200001c
 17. Convert a string to an array :https://www.codewars.com/kata/57e76bc428d6fbc2d500036d
+18. FIX ME 1,2,3,4: https://www.codewars.com/kata/5b13c699af73864aa7000031
